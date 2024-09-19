@@ -1,0 +1,14 @@
+.App{
+  height: 100vh;
+  background-color: black;
+}
+
+.point{
+  color: white;
+  display: inline-block;
+  position: absolute;
+}
+
+.undo{
+  z-index: 10;
+}
