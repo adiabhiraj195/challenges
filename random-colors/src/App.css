@@ -1,0 +1,13 @@
+.App{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+}
+
+.color-box{
+  width: 200px;
+  height: 200px;
+  /* background: #000; */
+}
